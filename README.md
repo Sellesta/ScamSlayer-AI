@@ -127,7 +127,7 @@ curl -X POST "http://localhost:8000/predict" -H "Content-Type: application/json"
 - **Real-time Email Scanning**: Integrate with business email systems.
 
 ## Contributors
-- **Moses Wanjema** - AI Developer
+- **Moses Wanjema** - Data Engineer
 
 ## License
 [MIT License](LICENSE)
