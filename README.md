@@ -3,6 +3,8 @@
 ## Overview
 Scam Slayer is an AI-powered email threat detection system designed to identify and prevent phishing attacks. The model utilizes a fine-tuned BERT classifier trained on phishing email datasets to detect suspicious emails with high accuracy. With the increasing sophistication of phishing attempts and malicious websites, non-tenon-tech-savvy often find it challenging to differentiate between legitimate and suspicious content. ScamSlayer aims to provide an additional layer of security by proactively and contincontinuouslyages for potentially harmful popups and alerting users in real-time.
 
+Live Link: https://huggingface.co/spaces/sellestas/ScamSlayerApp
+
 ## Features
 - **AI-Powered Email Threat Detection**
 - **Fine-tuned BERT Model** for phishing classification
